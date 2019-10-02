@@ -1,4 +1,4 @@
-package com.dliu.hexgonal.poem.adapters;
+package com.dliu.hexagonal.poem.adapters;
 
 import com.dliu.hexagonal.poem.ports.ObtainPoems;
 

@@ -3,8 +3,8 @@ package com.dliu.hexagonal.poem.console;
 import com.dliu.hexagonal.poem.PoemReader;
 import com.dliu.hexagonal.poem.ports.ObtainPoems;
 import com.dliu.hexagonal.poem.ports.RequestVerses;
-import com.dliu.hexgonal.poem.adapters.ConsoleAdapter;
-import com.dliu.hexgonal.poem.adapters.PoetryLibraryFileAdapter;
+import com.dliu.hexagonal.poem.adapters.ConsoleAdapter;
+import com.dliu.hexagonal.poem.adapters.PoetryLibraryFileAdapter;
 
 import java.io.IOException;
 
